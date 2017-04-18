@@ -1,0 +1,22 @@
+{
+    "build-name": "rackhd-devel", 
+    "build-requirements": "xenial", 
+    "downstream-jobs": [], 
+    "repositories": [
+        {
+            "branch": "master", 
+            "commit-id": "",
+            "repository": "https://github.com/RackHD-Mirror/on-core.git"
+        }, 
+        {
+            "branch": "master", 
+            "commit-id": "",
+            "repository": "https://github.com/RackHD-Mirror/on-syslog.git"
+        }, 
+        {
+            "branch": "master", 
+            "commit-id": "",
+            "repository": "https://github.com/RackHD-Mirror/di.js.git"
+        } 
+    ]
+}
