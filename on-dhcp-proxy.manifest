@@ -5,18 +5,18 @@
     "repositories": [
         {
             "branch": "master", 
-            "commit-id": "",
+            "commit-id": "8e4e81d744c8ada5dd9e9a145ecc21fb55f9c488", 
             "repository": "https://github.com/RackHD-Mirror/on-core.git"
         }, 
         {
             "branch": "master", 
-            "commit-id": "",
+            "commit-id": "", 
             "repository": "https://github.com/RackHD-Mirror/on-dhcp-proxy.git"
         }, 
         {
             "branch": "master", 
-            "commit-id": "",
+            "commit-id": "", 
             "repository": "https://github.com/RackHD-Mirror/di.js.git"
-        } 
+        }
     ]
 }

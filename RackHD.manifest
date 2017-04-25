@@ -5,72 +5,72 @@
     "repositories": [
         {
             "branch": "master", 
-            "commit-id": "",
+            "commit-id": "8e4e81d744c8ada5dd9e9a145ecc21fb55f9c488", 
             "repository": "https://github.com/RackHD-Mirror/on-core.git"
         }, 
         {
             "branch": "master", 
-            "commit-id": "",
+            "commit-id": "", 
             "repository": "https://github.com/RackHD-Mirror/on-dhcp-proxy.git"
         }, 
         {
             "branch": "master", 
-            "commit-id": "",
+            "commit-id": "", 
             "repository": "https://github.com/RackHD-Mirror/on-http.git"
         }, 
         {
             "branch": "master", 
-            "commit-id": "",
+            "commit-id": "", 
             "repository": "https://github.com/RackHD-Mirror/on-syslog.git"
         }, 
         {
             "branch": "master", 
-            "commit-id": "",
+            "commit-id": "", 
             "repository": "https://github.com/RackHD-Mirror/on-taskgraph.git"
         }, 
         {
             "branch": "master", 
-            "commit-id": "",
+            "commit-id": "", 
             "repository": "https://github.com/RackHD-Mirror/on-tasks.git"
         }, 
         {
             "branch": "master", 
-            "commit-id": "",
+            "commit-id": "", 
             "repository": "https://github.com/RackHD-Mirror/on-tftp.git"
         }, 
         {
             "branch": "master", 
-            "commit-id": "",
+            "commit-id": "", 
             "repository": "https://github.com/RackHD-Mirror/on-skupack.git"
         }, 
         {
             "branch": "master", 
-            "commit-id": "",
+            "commit-id": "", 
             "repository": "https://github.com/RackHD-Mirror/di.js.git"
         }, 
         {
             "branch": "master", 
-            "commit-id": "",
+            "commit-id": "", 
             "repository": "https://github.com/RackHD-Mirror/RackHD.git"
         }, 
         {
             "branch": "master", 
-            "commit-id": "",
+            "commit-id": "", 
             "repository": "https://github.com/RackHD-Mirror/on-imagebuilder.git"
-        },
+        }, 
         {
             "branch": "master", 
-            "commit-id": "",
+            "commit-id": "", 
             "repository": "https://github.com/RackHD-Mirror/on-wss.git"
-        },
+        }, 
         {
             "branch": "master", 
-            "commit-id": "",
+            "commit-id": "", 
             "repository": "https://github.com/RackHD-Mirror/on-statsd.git"
-        },
+        }, 
         {
-            "branch": "master",
-            "commit-id": "",
+            "branch": "master", 
+            "commit-id": "", 
             "repository": "https://github.com/RackHD-Mirror/ucs-service.git"
         }
     ]
