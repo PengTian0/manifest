@@ -65,7 +65,7 @@
         }, 
         {
             "branch": "master", 
-            "commit-id": "", 
+            "commit-id": "110e20e536dbe6bd0d58aba34d15acb12696dd17", 
             "repository": "https://github.com/RackHD-Mirror/on-statsd.git"
         }, 
         {
