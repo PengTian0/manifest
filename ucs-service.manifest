@@ -5,8 +5,8 @@
     "repositories": [
         {
             "branch": "master", 
-            "commit-id": "",
+            "commit-id": "92fcafb6a40d01078f6b3abada91927051f80ee4", 
             "repository": "https://github.com/RackHD-Mirror/ucs-service.git"
-        } 
+        }
     ]
 }
